@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2015-09-19T01:26:02Z",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "way/33803251",
+            "properties": {
+                "@id": "way/33803251",
+                "highway": "residential",
+                "name": "X Corps Boulevard"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        
+                       110.364557,
+                       -7.802896 
+                    ],
+                    [
+                        
+                        110.365686,
+                        -7.794031
+                    ],
+                    [
+                
+                        110.356912,
+                        -7.793047
+                    ],
+                    [
+                         110.356264,
+                        -7.801172
+                    ]
+                ]
+            }
+        
+            
+        }
+    ]
+}
